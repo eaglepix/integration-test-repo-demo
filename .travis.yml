@@ -5,7 +5,7 @@ language: node_js
 env:
   - PORT=7777
 node_js:
-  - "7"
+  - "6"
   - "4"
   
 # Doesn't work for node_js version:

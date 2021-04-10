@@ -1,0 +1,17 @@
+- from terminal: 
+git remote add origin git@github.com: ..... .git
+
+git status
+
+git add -A .
+- Move to Master branch
+git checkout -
+checkout merge
+git merge -
+
+git push origin master
+
+===================================
+travis-ci.org
+
+

@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/eaglepix/integration-test-repo#readme",
   "dependencies": {
+    "node": "^6.0.0",
     "body-parser": "^1.15.0",
     "express": "^4.13.4",
     "gulp": "^3.9.1",

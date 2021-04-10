@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/eaglepix/integration-test-repo.git"
   },
-  "author": "",
+  "author": "eaglepix",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/eaglepix/integration-test-repo/issues"
